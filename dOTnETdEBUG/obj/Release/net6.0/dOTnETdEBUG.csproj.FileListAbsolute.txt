@@ -1,0 +1,15 @@
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\bin\Release\net6.0\dOTnETdEBUG.exe
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\bin\Release\net6.0\dOTnETdEBUG.deps.json
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\bin\Release\net6.0\dOTnETdEBUG.runtimeconfig.json
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\bin\Release\net6.0\dOTnETdEBUG.dll
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\bin\Release\net6.0\dOTnETdEBUG.pdb
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.csproj.AssemblyReference.cache
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.AssemblyInfoInputs.cache
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.AssemblyInfo.cs
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.csproj.CoreCompileInputs.cache
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.dll
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\refint\dOTnETdEBUG.dll
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.pdb
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\dOTnETdEBUG.genruntimeconfig.cache
+C:\Users\mcalzadi\Documents\dOTnETdEBUG\obj\Release\net6.0\ref\dOTnETdEBUG.dll
